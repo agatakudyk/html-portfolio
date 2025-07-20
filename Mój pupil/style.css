@@ -1,0 +1,12 @@
+.blok1 {
+    text-align: center;
+}
+.opis1 {
+    size: 20px;
+}
+body {
+    border: 4px double #555;
+    margin: 40px 200px;
+    padding: 30px 20px;
+
+}
