@@ -1,0 +1,35 @@
+body {
+    margin: 80px;
+}
+h1 {
+    color: rgb(88, 27, 220);
+}
+.kombo2, .kombo3, .kombo3 {
+    width: 250px;
+    height: 200px;
+}
+.omnie {
+    color: rgb(21, 21, 193);
+}
+.umiejetnosci {
+    color: rgb(21, 21, 193);
+}
+.zabawki {
+    color: rgb(21, 21, 193);
+}
+ul {
+    list-style: square;
+}
+.zdjecia {
+    color: rgb(21, 21, 193);
+}
+.wideo {
+    color: rgb(21, 21, 193);
+}
+.wideo1 {
+    width: 250px;
+    height: 200px;
+}
+.pokochac {
+    color: rgb(21, 21, 193);
+}
